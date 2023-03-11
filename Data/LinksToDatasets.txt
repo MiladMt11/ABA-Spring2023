@@ -1,0 +1,18 @@
+Environmental Protection Agency Dataset:
+https://java.epa.gov/castnet/epa_jsp/prepackageddata.jsp
+
+NYC Environmental and Health Data:
+https://a816-dohbesp.nyc.gov/IndicatorPublic/beta/
+
+NYC data:
+https://data.cityofnewyork.us/browse?sortBy=most_accessed&utf8=%E2%9C%93
+https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
+
+Specific Chronic Conditions Data:(Also check the landing page)
+https://catalog.data.gov/dataset/specific-chronic-conditions-0f448
+
+Disease control and prevention data:
+https://data.cdc.gov/browse?sortBy=most_accessed
+
+Drought, solar radiation, air pollution data:
+https://ephtracking.cdc.gov/download
