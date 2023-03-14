@@ -25,3 +25,6 @@ https://ww2.arb.ca.gov/capp-resource-center/data-portal/carb-pollution-mapping-t
 
 https://data.cnra.ca.gov/dataset/california-power-plants1
 California_Power_Plants.csv 
+
+califo counties pop+ages 2010-2019
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-detail.html
