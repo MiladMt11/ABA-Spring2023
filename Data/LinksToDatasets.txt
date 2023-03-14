@@ -19,3 +19,6 @@ https://ephtracking.cdc.gov/download
 
 Current_Employment_Statistics__CES_
 https://data.ca.gov/dataset/current-employment-statistics-ces/resource/d6a4f7d5-9817-4561-9b32-b329810574c8?inner_span=True
+
+manufct plants and their main pollutants californ
+https://ww2.arb.ca.gov/capp-resource-center/data-portal/carb-pollution-mapping-tool
