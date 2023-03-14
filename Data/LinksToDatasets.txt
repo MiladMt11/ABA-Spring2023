@@ -22,3 +22,6 @@ https://data.ca.gov/dataset/current-employment-statistics-ces/resource/d6a4f7d5-
 
 manufct plants and their main pollutants californ
 https://ww2.arb.ca.gov/capp-resource-center/data-portal/carb-pollution-mapping-tool
+
+https://data.cnra.ca.gov/dataset/california-power-plants1
+California_Power_Plants.csv 
