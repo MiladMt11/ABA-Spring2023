@@ -1,5 +1,5 @@
 Environmental Protection Agency Dataset:
-https://java.epa.gov/castnet/epa_jsp/prepackageddata.jsp
+https://java.epa.gov/castnet/downloadprogress.do
 
 NYC Environmental and Health Data:
 https://a816-dohbesp.nyc.gov/IndicatorPublic/beta/
@@ -28,3 +28,6 @@ California_Power_Plants.csv
 
 califo counties pop+ages 2010-2019
 https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-detail.html
+
+
+
